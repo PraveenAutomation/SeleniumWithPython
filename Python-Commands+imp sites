@@ -1,0 +1,11 @@
+Commands:
+===============
+--------------------------
+Selenium Configuration:
+    -pip list
+    --pip install -U selenium
+--------------------------
+Demo Sites:
+http://demo.automationtesting.in/Windows.html
+http://newtours.demoaut.com/
+http://www.pavantestingtools.com/

@@ -1,0 +1,10 @@
+driver.title
+driver.current_url()
+driver.page_resource()
+driver.back()
+driver.forward()
+------------------
+driver.is_displayed()
+driver.is_enabled()
+driver.is_selected() # Used only for Checkboxex & Radio buttons
+----------------------
