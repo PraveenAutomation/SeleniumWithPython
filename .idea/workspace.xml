@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7929a46-2883-45d3-97f9-5d01d324f700" name="Default Changelist" comment="" />
+    <list default="true" id="e7929a46-2883-45d3-97f9-5d01d324f700" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Selenium-Operations/ImplicitWail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WA-UI-Selenium/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Commands+imp sites" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Commands+imp sites" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Operations/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Operations/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenuim-Commands" beforeDir="false" afterPath="$PROJECT_DIR$/Selenuim-Commands" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +17,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZkwjIi1MSq9DeLnWvaEm1MQhL1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,97 +42,84 @@
       <recent name="D:\SDET-SeleniumProject\Drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ConditionalCommands">
-    <configuration name="BasicCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for CheckBoxes.checkboxTest">
+    <configuration name="Unittests for BasicsOps.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SDET-SeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium-Operations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WA-UI-Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium-Operations/BasicCommands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BasicsOps.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="ConditionalCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for BasicsOps.MyTestCase.test_1stc" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SDET-SeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium-Operations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WA-UI-Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium-Operations/ConditionalCommands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BasicsOps.MyTestCase.test_1stc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="MultiBrowsers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for BasicsOps.MyTestCase.test_2ndtc" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SDET-SeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium-Operations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WA-UI-Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium-Operations/MultiBrowsers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BasicsOps.MyTestCase.test_2ndtc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="NavigationCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for CheckBoxes.checkboxTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SDET-SeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium-Operations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WA-UI-Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium-Operations/NavigationCommands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CheckBoxes.checkboxTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for CheckBoxes.checkboxTest.test_multiChkbox" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SDET-SeleniumProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WA-UI-Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CheckBoxes.checkboxTest.test_multiChkbox&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ConditionalCommands" />
-        <item itemvalue="Python.NavigationCommands" />
-        <item itemvalue="Python.BasicCommands" />
-        <item itemvalue="Python.MultiBrowsers" />
+        <item itemvalue="Python tests.Unittests for CheckBoxes.checkboxTest" />
+        <item itemvalue="Python tests.Unittests for CheckBoxes.checkboxTest.test_multiChkbox" />
+        <item itemvalue="Python tests.Unittests for BasicsOps.MyTestCase" />
+        <item itemvalue="Python tests.Unittests for BasicsOps.MyTestCase.test_2ndtc" />
+        <item itemvalue="Python tests.Unittests for BasicsOps.MyTestCase.test_1stc" />
       </list>
     </recent_temporary>
   </component>
@@ -142,25 +141,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585403139013" />
-    <state width="1345" height="248" key="GridCell.Tab.0.bottom" timestamp="1585406957436">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1585497543156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="248" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585406957436" />
-    <state width="1345" height="248" key="GridCell.Tab.0.center" timestamp="1585406957436">
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585497543156" />
+    <state width="1308" height="267" key="GridCell.Tab.0.bottom" timestamp="1586064913015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="248" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585406957436" />
-    <state width="1345" height="248" key="GridCell.Tab.0.left" timestamp="1585406957435">
+    <state width="1308" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586064913015" />
+    <state width="1308" height="267" key="GridCell.Tab.0.center" timestamp="1586064913014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="248" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585406957435" />
-    <state width="1345" height="248" key="GridCell.Tab.0.right" timestamp="1585406957436">
+    <state width="1308" height="267" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586064913014" />
+    <state width="1308" height="267" key="GridCell.Tab.0.left" timestamp="1586064913014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="248" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585406957436" />
+    <state width="1308" height="267" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586064913014" />
+    <state width="1308" height="267" key="GridCell.Tab.0.right" timestamp="1586064913015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="267" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586064913015" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1585405149114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585405149114" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586062868882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586062868882" />
   </component>
 </project>

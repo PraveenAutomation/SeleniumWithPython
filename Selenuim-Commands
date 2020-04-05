@@ -7,4 +7,9 @@ driver.forward()
 driver.is_displayed()
 driver.is_enabled()
 driver.is_selected() # Used only for Checkboxex & Radio buttons
+# Implicit wait
+driver.implicitly_wait(10)
+# Explicit wait
+wait=WebDriverWait(driver,10)
+element=wait.until(EC.element_to_be_clickable((By.ID,'stopFilter_stops-0')))
 ----------------------
